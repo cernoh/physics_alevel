@@ -2,6 +2,6 @@
 A subatomic particle.
 
 
-| symbol | relative charge | quark structure |
-| ------ | --------------- | --------------- |
-|     $$p, p⁺$$   |          $$+1 $$      |          $$uud$$       |
+| symbol    | relative charge | quark structure | relative mass |
+| --------- | --------------- | --------------- | ------------- |
+| $$p, p⁺$$ | $$+1 $$         | $$uud$$         |   $$1$$            |

@@ -40,3 +40,4 @@
 
 ### subtopics
 [[2.1.1 Constituents of the atom]]
+[[2.1.2 Stable and unstable nuclei]]

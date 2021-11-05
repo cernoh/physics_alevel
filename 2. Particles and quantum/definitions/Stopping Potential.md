@@ -3,4 +3,5 @@ The minimum potential difference required to stop the highest kinetic energy ele
 
 ### $$E_{k(max)}=eV_{s}$$
 where:
-- 
+- $V_{s}$ = stopping potential
+- $e$ = charge of an electron

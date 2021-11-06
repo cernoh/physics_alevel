@@ -24,3 +24,6 @@
 [[Polarisation]]
 [[Pulse Broadening]]
 [[Refractive Index]]
+[[Snell's Law]]
+[[Speed]]
+[[Stationary WA]]

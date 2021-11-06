@@ -1,6 +1,6 @@
 # Waves
 
-### definitons
+### definitions
 [[Amplitude]]
 [[Antinode]]
 [[Cladding]]
@@ -19,3 +19,5 @@
 [[Node]]
 [[Optical Fibre]]
 [[Path Difference]]
+[[Phase Difference]]
+[[Phase]]

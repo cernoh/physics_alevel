@@ -26,4 +26,6 @@
 [[Refractive Index]]
 [[Snell's Law]]
 [[Speed]]
-[[Stationary WA]]
+[[Stationary Wave]]
+[[Total Internal Reflection]]
+[[Transverse Wave]]

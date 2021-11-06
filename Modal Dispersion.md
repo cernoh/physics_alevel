@@ -1,2 +1,2 @@
 # Modal Dispersion
-Waves enter an [[o]]
+Waves enter an [[optical fibre]] at slightly different angles. Meaning the distance each beam travels is slightly different. This leads to the beams reaching the end at differernt times and so causes [[Pulse Broadening]].

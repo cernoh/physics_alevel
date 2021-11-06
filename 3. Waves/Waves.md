@@ -10,3 +10,6 @@
 [[Electromagnetic Waves]]
 [[Frequency]]
 [[Fringe spacing]]
+[[Interference]]
+[[Laser]]
+[[Longitudinal wave]]

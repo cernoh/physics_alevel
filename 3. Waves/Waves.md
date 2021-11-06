@@ -34,3 +34,4 @@
 
 ### Subtopics
 [[3.1.Progressive and stationary waves]]
+[[3.2 Refraction, diffraction and interference]]

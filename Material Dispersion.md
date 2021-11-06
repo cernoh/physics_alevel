@@ -1,2 +1,0 @@
-# Material Dispersion
-Waves of different wavelengths travel at slightly different speedr through an [[optical fibre]] and so reach the end of the fibre at slightly different times. causing pulse broadening. Using [[monochromatic light]] fixes this.

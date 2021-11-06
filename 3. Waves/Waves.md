@@ -31,3 +31,6 @@
 [[Transverse Wave]]
 [[Wavelength]]
 [[Young's Double-slit experiment]]
+
+### Subtopics
+[[3.1.Progressive and stationary waves]]

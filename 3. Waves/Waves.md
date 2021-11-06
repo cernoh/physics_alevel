@@ -29,3 +29,5 @@
 [[Stationary Wave]]
 [[Total Internal Reflection]]
 [[Transverse Wave]]
+[[Wavelength]]
+[[Young's Double-slit experiment]]

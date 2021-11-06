@@ -1,0 +1,2 @@
+# destructive interference
+Occurs when one wave has positive displacement and the other has negative displacement. If waves have equal but

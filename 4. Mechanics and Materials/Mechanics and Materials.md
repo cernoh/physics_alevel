@@ -2,3 +2,5 @@
 
 ### definitions
 [[Breaking Stress]]
+[[Brittle]]
+[[Centre of mass]]

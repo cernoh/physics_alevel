@@ -4,10 +4,11 @@
 Has bright central fringe, which is double the width of all other fringes, with alternating dark and light fringes on both sides.
 - Bright fringes caused by [[constructive interference]]
 - Dark fringes caused by [[destructive interference]]
-![[Pasted image 20211106191035.png]]
+![[Pasted image 20211106191035.png]] ![[Pasted image 20211107094556.png]]
 
 
 If White light is used instead of monochromatic light, the diffraction pattern seen would be different.
 White light is made up of all colours, therefore is made up of all wavelengths of visible light.
 You get a spectrum of colour in the diffraction pattern. 
-Diffraction pattern of white light has a central white maxima with alternating bright fringes which are spectra, vi
+Diffraction pattern of white light has a central white maxima with alternating bright fringes which are spectra, violet is closest to central maximum and red furthest away.
+![[Pasted image 20211107094527.png]]

@@ -6,5 +6,7 @@ A grating with hundreds of slits per millimetre, that results in sharper interfe
 ![[Pasted image 20211107095658.png]]
 
 ### formula 
-### $$d = \sin{\theta} = n \lambda$$
-where d is the distance, $\theta$ is the angle, 
+### $$d\sin{\theta} = n \lambda$$
+where d is the distance, $\theta$ is the angle, n is the order, ad $\lambda$ is the wavelength.
+
+max value of $\sin{\theta}$ is one, so any value of n that gives $\sin{\theta}$ as greater than 1 are impossible.

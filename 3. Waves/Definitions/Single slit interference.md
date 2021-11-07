@@ -7,4 +7,7 @@ Has bright central fringe, which is double the width of all other fringes, with 
 ![[Pasted image 20211106191035.png]]
 
 
-if white light is used instead of monochromatic light, the diffraction pattern seen would be different
+If White light is used instead of monochromatic light, the diffraction pattern seen would be different.
+White light is made up of all colours, therefore is made up of all wavelengths of visible light.
+You get a spectrum of colour in the diffraction pattern. 
+Diffraction pattern of white light has a central white maxima with alternating bright fringes which are spectra, vi

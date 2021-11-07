@@ -5,3 +5,6 @@ Has bright central fringe, which is double the width of all other fringes, with 
 - Bright fringes caused by [[constructive interference]]
 - Dark fringes caused by [[destructive interference]]
 ![[Pasted image 20211106191035.png]]
+
+
+if white light is used instead of monochromatic light, the diffraction pattern seen would be different

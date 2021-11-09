@@ -1,2 +1,2 @@
 # Electron capture
-Radioactive decay process where ana tom's inter orbital [[electron]] is absorbed within the nucleus followed by the conversion of a [[Photon]] to a [[Neutron]] and the emission of a [[Neutrino]]
+Radioactive decay process where an atom's inter orbital [[electron]] is absorbed within the nucleus followed by the conversion of a [[Photon]] to a [[Neutron]] and the emission of a [[Neutrino]]

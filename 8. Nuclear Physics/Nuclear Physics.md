@@ -26,3 +26,6 @@
 [[Radioactive Waste]]
 [[Random Nature of Radioactive Decay]]
 [[Rutherford Scattering]]
+
+### Topics
+[[8.1 Rutherford scattering]]

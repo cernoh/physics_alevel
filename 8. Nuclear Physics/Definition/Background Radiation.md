@@ -3,6 +3,10 @@ Radiation found in small quantities all around us. Originates from natural sourc
 
 Many sources , such as:
 radon gas
-Artifical sources
+Artificial sources
 Cosmic rays
 Rocks
+
+<p align="centre">
+	h
+</p>

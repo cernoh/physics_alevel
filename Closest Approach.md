@@ -1,3 +1,2 @@
 # Closest Approach
-
-### example 
+Method of estimating a nuclear radius by firing an [[alpha particle]] at it. Involves calculating the distance at which all the alpha particles kinetic energy is converted to electric potential energy.

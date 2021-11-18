@@ -28,4 +28,4 @@
 [[Rutherford Scattering]]
 
 ### Topics
-[[8.1 Rutherford scattering]]
+[[8.1.1 Rutherford scattering]]

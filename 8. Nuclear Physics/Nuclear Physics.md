@@ -19,7 +19,7 @@
 [[Gamma Decay]]
 [[Half Life]]
 [[Inverse Square Law]]
-[[2.2 Electromagnetic radiation and quantum phenomena]]
+[[lrradiation]]
 [[Mass Defect]]
 [[Moderator]]
 [[Radioactive Dating]]

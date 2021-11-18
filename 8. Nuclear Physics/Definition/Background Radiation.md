@@ -7,6 +7,6 @@ Artificial sources
 Cosmic rays
 Rocks
 
-<p align="centre">
-	h
+<p align="center">
+	<font size ="5">Corrected count rate = Total count rate - background count</font>
 </p>

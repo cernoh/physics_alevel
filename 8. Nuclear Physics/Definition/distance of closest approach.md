@@ -6,4 +6,6 @@ The point kinetic energy = 0 is distance of closest approach
 
 can calculate this distance by using :
 
-</siz>
+<font size = "7"> $$V = \frac{1}{4\pi \varepsilon _{0}} \frac{Q}{r}$$</font>
+
+electric potential

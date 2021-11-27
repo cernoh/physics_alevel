@@ -2,4 +2,5 @@
 
 Found by:
 
-<font size= "7"> /lamb </font>
+<font size= "5"> $$\lambda = \frac{h}{p}$$ </font>
+where h = [[Planck's Constant]] and p = momentum

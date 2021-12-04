@@ -1,2 +1,2 @@
 # resonant frequency
-When driving frequency is equal t natural frequency
+When driving frequency is equal to natural frequency

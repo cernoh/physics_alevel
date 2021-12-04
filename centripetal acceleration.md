@@ -7,5 +7,5 @@ has constantly changing velocity (velocity = magnitude and direction)
 
 Therefore, object is accelerating 
 
-## equation
-$$ A = \frac{v^2r}=\omega^{2}r$$
+# equation
+<font size="8">$$ A = \frac{v^2}{r}=\omega^{2}r$$</font>

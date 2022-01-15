@@ -1,4 +1,4 @@
-# Waves
+~# Waves
 
 ### definitions
 [[Amplitude]]

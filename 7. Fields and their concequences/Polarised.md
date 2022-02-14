@@ -1,0 +1,2 @@
+# Polarised
+An atom/molecule becomes polarised when an external electric field causes the negative electron cloud to be shifted in the opposite direction to the positive nucleus - The charges are pulled in opposite directions (This is what happens to the molecules of the [[Dielectric]] in a capacitor) 

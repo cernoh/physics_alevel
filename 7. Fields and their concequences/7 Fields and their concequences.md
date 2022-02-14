@@ -27,6 +27,9 @@
 [[Magnetic Flux]]
 [[Magnetic Flux Density]]
 [[Magnetic Flux Linkage]]
+[[Motor Effect]]
+[[Permittivity of free space]]
+[[Polarised]]
 
 ## topics
 [[3.7.1 Fields]]

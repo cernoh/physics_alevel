@@ -14,7 +14,8 @@
 [[Electromagnetic Induction]]
 [[Equipotential]]
 [[Escape Velocity]]
-[[Fr]]
+[[Faraday's Law]]
+[[Field Line/Line of Force]]
 ## topics
 [[3.7.1 Fields]]
 [[3.7.2 Gravitational fields]]

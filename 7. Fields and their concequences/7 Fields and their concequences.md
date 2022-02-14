@@ -18,6 +18,9 @@
 [[Field Line or Line of Force]]
 [[force field]]
 [[Geostationary Satellite]]
+[[Gravitational Field Strength]]
+[[Gravitational Potential]]
+[[Gravitational Potential Energy]]
 ## topics
 [[3.7.1 Fields]]
 [[3.7.2 Gravitational fields]]

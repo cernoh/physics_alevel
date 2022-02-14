@@ -25,6 +25,9 @@
 [[Lenz's law]]
 [[Magnetic Field]]
 [[Magnetic Flux]]
+[[Magnetic Flux Density]]
+[[Magnetic Flux Linkage]]
+
 ## topics
 [[3.7.1 Fields]]
 [[3.7.2 Gravitational fields]]

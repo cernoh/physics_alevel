@@ -30,6 +30,9 @@
 [[Motor Effect]]
 [[Permittivity of free space]]
 [[Polarised]]
+[[Potential Gradient]]
+[[Radial Field]]
+[[Relative Permittivity]]
 
 ## topics
 [[3.7.1 Fields]]

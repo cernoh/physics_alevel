@@ -1,6 +1,8 @@
 # 7 Fields and their consequences
 
 ## definitions
+[[Back EMF]]
+[[Capacitace]]
 
 ## topics
 [[3.7.1 Fields]]

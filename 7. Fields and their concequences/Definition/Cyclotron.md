@@ -1,0 +1,2 @@
+# Cyclotron
+Particle accelerator made up of two D shaped electrodes positioned opposite each other. The electric field changes direction each time a particle moves from one electrode to the other, causing the particle to accelerate

@@ -1,0 +1,2 @@
+# Geostationary Satellite
+A satellite that orbits above the equator with a 24 hour period, so it will always remain abocee the same position ono the Earth. They orbit approximately 36,000km above the surface of the 

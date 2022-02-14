@@ -15,7 +15,9 @@
 [[Equipotential]]
 [[Escape Velocity]]
 [[Faraday's Law]]
-[[Field Line/Line of Force]]
+[[Field Line or Line of Force]]
+[[force field]]
+[[Geostationary Satellite]]
 ## topics
 [[3.7.1 Fields]]
 [[3.7.2 Gravitational fields]]

@@ -12,6 +12,9 @@
 [[Electric Field Strength]]
 [[Electric Potential]]
 [[Electromagnetic Induction]]
+[[Equipotential]]
+[[Escape Velocity]]
+[[Fr]]
 ## topics
 [[3.7.1 Fields]]
 [[3.7.2 Gravitational fields]]

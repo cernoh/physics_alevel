@@ -1,0 +1,2 @@
+# Michelson-Morley Interferometer
+An experimental set-up involving a monochromatic light source, a semi-silvered glass block, a plane glass block, two mirrors and a viewing telescope. It proved that the speed of light is invariant

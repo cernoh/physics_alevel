@@ -1,0 +1,2 @@
+# Ether Drift
+A theory that the Earth’s ether carried light along with it. This implied that light should travel faster when travelling in the direction of the ether, however this was later proved to be false

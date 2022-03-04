@@ -1,0 +1,2 @@
+# Fizeau’s Determination of the Speed of Light
+An early method of determining the speed of light. It involved timing the length of time it took for a beam of light to travel to and back from a mirror, by passing it through a rotating cog wheel

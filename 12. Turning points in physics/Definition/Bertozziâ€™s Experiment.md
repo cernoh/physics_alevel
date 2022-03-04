@@ -1,0 +1,2 @@
+# Bertozzi’s Experiment
+An experiment that investigated the velocity of electrons emitted with different kinetic energies. It showed that the speed of light was never exceeded and that as the kinetic energy continually increases, the velocity of the electrons continually approaches the speed of light

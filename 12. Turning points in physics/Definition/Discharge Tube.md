@@ -1,0 +1,2 @@
+# Discharge Tube
+A sealed glass tube held at low pressure, with an anode at one end and a cathode at the other. When the electrodes are connected to a supply, the gas in the tube will glow and conduct electricity

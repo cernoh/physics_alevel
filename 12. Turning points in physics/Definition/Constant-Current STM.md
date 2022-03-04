@@ -1,0 +1,2 @@
+# Constant-Current STM
+A form of scanning tunneling microscope in which the current of the probe remains constant, and the probe’s height changes with changes in the sample’s surface. The current that tunnels across varies depending on the height, allowing an image to be formed

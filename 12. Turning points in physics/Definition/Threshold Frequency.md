@@ -1,0 +1,2 @@
+# Threshold Frequency
+The minimum frequency of photons required for photoelectrons to be emitted from the surface of a metal plate through the photoelectric effect. It is equal to the metal’s work function divided by Planck’s constant

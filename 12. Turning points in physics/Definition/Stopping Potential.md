@@ -1,0 +1,2 @@
+# Stopping Potential
+A value of potential difference at which photoelectric emission is stopped. This is because the electrons no longer have sufficient kinetic energy to cross the potential difference

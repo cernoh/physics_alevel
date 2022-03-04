@@ -1,0 +1,2 @@
+# Maxwell’s Electromagnetic Theory
+Maxwell predicted that a type of wave, known as an electromagnetic wave, consisted of oscillating, perpendicular electric and magnetic fields. He then went onto produce an equation for their speed, which combined with experiments, proved his theory

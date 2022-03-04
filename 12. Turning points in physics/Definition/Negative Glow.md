@@ -1,0 +1,2 @@
+# Negative Glow
+A glow found near the cathode in a cathode ray tube. It is caused by the recombination of positive ions with the electrons produced by ionisation. This recombination results in photons being emitted

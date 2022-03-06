@@ -1,3 +1,2 @@
 # Equilibrium
-
-When both resultant force and resultant monet acting on the object must be equal to zero
+For an object to be equilibrium, both the resultant force and resultant moment acting on the object must be equal to zero

@@ -1,3 +1,2 @@
 # Density
-
-Mass per unit volume of a material
+The mass per unit volume of a material

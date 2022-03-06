@@ -1,3 +1,2 @@
 # Efficiency
-
-ratio of useful output to total output foor a given system
+The ratio of useful output to total input for a given system

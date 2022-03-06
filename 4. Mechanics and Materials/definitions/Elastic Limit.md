@@ -1,3 +1,2 @@
 # Elastic Limit
-
-Force beyond which an object will no longer [[Elastic Behaviour|deform elastically ]]and [[Plastic Behaviour|deform plastically ]]instead. Will **not** return to original shape
+The force beyond which an object will no longer deform elastically, and instead deform plastically. Beyond the elastic limit, when the deforming forces are removed, the object will not return to its original shape

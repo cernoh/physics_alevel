@@ -3,6 +3,7 @@
 ## Definition
 [[Ammeter]]
 [[Current]]
+[[potential difference]]
 [[Electromotive Force]]
 [[Internal Resistance]]
 [[Light Dependent Resistor]]
@@ -19,3 +20,5 @@
 [[Terminal Potential Difference]]
 [[Thermistor]]
 [[Voltmeter]]
+
+[[3.5.1 Current electricity]]

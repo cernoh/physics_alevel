@@ -7,7 +7,7 @@
 [[Internal Resistance]]
 [[Light Dependent Resistor]]
 [[Ohmic Conductor]]
-
+[[Ohm's Law]]
 [[Parallel Circuits]]
 [[Potential Divider]]
 [[Resistance]]

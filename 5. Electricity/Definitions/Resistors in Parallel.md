@@ -1,0 +1,2 @@
+# Resistors in Parallel
+The potential difference across resistors connected in parallel is identical for each resistor. The current is split between the resistors. The total resistance is equal to the inverse of the sum of the inverses of the resistances of the resistors

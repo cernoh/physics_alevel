@@ -1,0 +1,2 @@
+# Resistors in Series
+The current through resistors connected in series is identical for each resistor. The potential difference is split in the ratio of their resistances. The total resistance is equal to the sum of the resistances of the resistors

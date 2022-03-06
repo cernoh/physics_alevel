@@ -20,5 +20,8 @@
 [[Terminal Potential Difference]]
 [[Thermistor]]
 [[Voltmeter]]
+[[Semiconductor Diode]]
+[[threshold voltage]]
 
+## Topics
 [[3.5.1 Current electricity]]

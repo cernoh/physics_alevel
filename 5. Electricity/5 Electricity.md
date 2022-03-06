@@ -23,5 +23,9 @@
 [[Semiconductor Diode]]
 [[threshold voltage]]
 [[Power]]
+[[kirchoff's first law]]
+[[kirchoff's second law]]
+
+
 ## Topics
 [[3.5.1 Current electricity]]

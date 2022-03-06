@@ -22,6 +22,6 @@
 [[Voltmeter]]
 [[Semiconductor Diode]]
 [[threshold voltage]]
-
+[[Power]]
 ## Topics
 [[3.5.1 Current electricity]]

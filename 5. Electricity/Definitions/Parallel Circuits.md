@@ -7,3 +7,5 @@ Sum of [[Current]] in each parallel set of branches = total current
 
 ## Resistance
 $$ \frac{1}{R_t}= \frac{1}{R_1} + \frac{1}{R_22} + \frac{1}{R_3} + ... + \frac{1}{R_n}$$
+## voltage
+$$V_t = V_1 = V_2 = V_3 = ... $$

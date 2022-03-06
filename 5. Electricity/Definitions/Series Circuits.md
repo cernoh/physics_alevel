@@ -6,3 +6,6 @@ battery [[potential difference]] shared across all elements  , therefore  $\sum$
 ![[Pasted image 20220306171236.png]]
 ## resistance
 $$ R_t =R_1 + R_2 + R_3 +... +R_n $$
+
+## Voltage
+$$V_T = V_1+V_2+V_3+... $$

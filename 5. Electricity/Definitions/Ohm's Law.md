@@ -1,2 +1,2 @@
 # Ohm’s Law
-The current and potential difference through an ohmic conductor held under constant physical conditions are directly proportional, with the constant of proportionality being resistance
+The [[current]] and [[potential difference]] through an [[ohmic conductor]] held under constant physical conditions are directly proportional, with the constant of proportionality being [[resistance]]

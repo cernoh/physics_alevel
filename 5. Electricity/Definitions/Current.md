@@ -1,4 +1,4 @@
 # Current
 The rate of flow of charge in a circuit 
 
-$$\Large I = \frac{\Detla}{}$$
+$$\Large I = \frac{\Delta Q}{\Delta t}$$

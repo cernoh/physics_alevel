@@ -25,7 +25,7 @@
 [[Pulse Broadening]]
 [[Refractive Index]]
 [[Snell's Law]]
-[[Speed]]
+[[Wave speed]]
 [[Stationary Wave]]
 [[Total Internal Reflection]]
 [[Transverse Wave]]

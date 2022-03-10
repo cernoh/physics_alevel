@@ -1,4 +1,4 @@
 # Acceleration
 Rate of change of velocity
 
-$$\large $$
+$$\large \frac{\Delta v}{\Delta t}$$

@@ -18,7 +18,7 @@
 ![[Pasted image 20220312085002.png]]
 
 ## Graphs and calculations
-- Calculate the cross sectional area A of the syringe using A = 4 πd 2 
+- Calculate the cross sectional area A of the syringe using $\frac{\pi d^2}{4}$  
 - Calculate and tabulate the force F exerted by each mass m using F=mg. 
 - Find the pressure exerted by this force using F/A. Subtract this from standard atmospheric pressure, 101kPa, to obtain the pressure P of the air sample at each V. 
 - Plot a graph of 1/V against P and draw a line of best fit. A straight line through the origin should be obtained, showing that the pressure is inversely proportional to the volume.

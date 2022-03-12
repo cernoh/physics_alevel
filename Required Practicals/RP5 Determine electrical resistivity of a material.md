@@ -18,6 +18,14 @@
 ![[Pasted image 20220312085351.png]]
 
 ## Graphs and calculations
-- Calculate the cross-sectional area A of the wire by A = 4 πd 2 
+- Calculate the cross-sectional area A of the wire by $A = \frac{\pi d^2}{4}$
 - Plot a graph of the mean value of R against l and draw a line of best fit. The resistivity will be the gradient multiplied by the cross-sectional area of the wire. 
-- ρ = A where G is the gradient.
+- $\rho = \frac{RA}{l} = GA$ where G is the gradient.
+
+## Safety
+- Disconnect the crocodile clips in between measurements to avoid the wire heating up and causing burns if touched. If the current rises too high, reduce the voltage using the variable power supply. 
+- If the wire is tight, safety goggles should be worn in case it snaps and injures eyes.
+
+## Improvements and notes
+- The wire heating up might additionally cause the resistance of the wire to change, affecting measurements. To reduce this, disconnect it in between measurements or reduce the voltage of the supply so the current is lower. 
+- The wire should be free from kinks and held straight so the measurement of the length is as accurate as possible
